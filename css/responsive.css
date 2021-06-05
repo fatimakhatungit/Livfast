@@ -1,0 +1,462 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1600px) {
+    .right-navbar {
+        display: none;
+    }
+    .csr-slider {
+        width: 83%;
+        float: none;
+        margin: auto;
+    }
+    .about-banner span {
+        font-size: 68px;
+        line-height: 76px;
+        padding: 3em 0em 0em 0em;
+    }
+    .dealer-banner-main span.inno-head {
+        color: #FFF;
+        font-size: 59px;
+        padding: 0.8em 0em 0em .6em;
+    }
+    
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .right-navbar {
+        display: none;
+    }
+    .about-banner span {
+        font-size: 68px;
+        line-height: 64px;
+        padding: 3em 0em 0em 0em;
+    }
+    .main-menu ul li a {
+        font-size: 13px;
+        padding: 33px 24px 18px 15px;
+    }
+    .life-section-box ul li label {
+        font-size: 13px;
+    }
+    .about-banner span {
+        font-size: 63px;
+        line-height: 64px;
+        padding: 1em 0em 0em 0em;
+    }
+    .about-banner span.big-b {
+       /*! padding: 0; */
+    } 
+    .csr-slider {
+        width: 83%;
+        float: none;
+        margin: auto;
+    }
+ 
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 992px) {
+    header {
+        padding: 10px 0px;
+    }
+    .life-section-box h3 {
+        padding: 7px 0 30px 18px;
+    }
+    .life-section-box ul li {
+        margin: 16px 0 0 16px;
+    }
+    .life-section-box ul li label {
+        font-size: 14px;
+    }
+  
+    .csr-slider {
+        width: 87%;
+    }
+    .about-banner span {
+        font-size: 56px;
+        line-height: 64px;
+        padding: 3em 0em 0em 0em;
+    }
+   
+    .aim-ambas-right img {
+        width: 83%;
+    }
+    .aim-ambas-left {
+        width: 58%;
+        padding-right: 132px;
+    } 
+   
+    .aim-slide-box p {
+        font-size: 18px;
+    } 
+    .big-box {
+        margin-top: 39px;
+    }
+    .sar-left {
+        width: 40%;
+    }
+    h1.page-heading {
+        text-align: left !important;
+    }
+    .dealer-banner-main span.inno-head {
+        font-size: 57px;
+        line-height: 63px;
+        padding: 0em 0em 0em .6em;
+    }
+    .dealer-locate span {
+        float: left;
+        font-size: 20px;
+    }
+    .choose-class {
+        width: 565px;
+        margin-bottom: 10px;
+    }
+    .cur-location {
+        float: left;
+    }
+    .blog-section .container {
+        max-width: 1270px;
+    }
+    .life-section-main .container {
+        max-width: 1270px;
+    }
+    .dealer-banner-main span.we-head {
+        color: #FFF;
+        font-size: 50px;;
+    }
+    .iot-section-auto h5 {
+        font-size: 24px;
+    }
+} 
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    header {
+        padding: 20px 0px;
+    }
+    .text {
+        font-size: 15px;
+    }
+    .blog-section .container {
+        max-width: 1270px;
+        padding: 0;
+    }
+    .life-section-main .container {
+        max-width: 1270px;
+        padding: 0;
+    }
+    .about-banner span {
+        font-size: 23px;
+        line-height: 32px;
+        padding: 0 !important;
+    }
+/*     .about-banner span.big-b {
+       padding: 0;
+    }  */  
+    .aim-ambas-right img {
+        width: 66%;
+    }
+    .aim-ambas-left {
+        width: 67%;
+        padding-right: 417px;
+    }
+    h1.page-heading {
+        text-align: left !important;
+    }
+    .big-box {
+        margin-top: 39px;
+    }
+    .aim-middle-right {
+        padding-left: 0;
+     }
+ 
+    .inverter-banner .carousel-indicators {
+        margin-left: 4%;
+    }
+    .explore-inverter-right {
+        width: 65%;
+    }
+    .life-section-box h3 {
+        padding: 7px 0 30px 17px;
+    }
+    .life-section-box ul li {
+        margin: 16px 0 0 15px;
+        width: 82% !important;
+        padding: 1px 0px 0px 25px !important;
+    }
+    .csr-can {
+        padding: 0px 0em 25px 0em;
+    }
+    .footer-1, .footer-2 {
+        width: 50%;
+    }
+    .footer-4 {
+        width: 50%;
+    }
+    .footer-5 {
+        width: 50%;
+    }
+    .support-text {
+        font-size: 13px;
+        text-align: right;
+    }
+    .aim-slide-box p {
+        font-size: 13px;
+        margin-right: 180px;
+    }
+    .logo {
+        width: 30%;
+    }
+    .inverter-banner .carousel-indicators {
+        position: unset;
+        height: auto !important;
+        padding: 10px;
+        overflow: hidden;
+        margin: 0px;
+        background: #F4F6F8;
+    }
+    .explore-inverter-left {
+        width: 35%;
+    }
+    .explore-inverter-right {
+        width: 70%;
+        float: none;
+    }
+    .life-section-box ul li {
+        margin: 16px 0 0 15px;
+        width: 100% !important;
+        padding: 1px 0px 0px 25px !important;
+    }
+    .life-section-box ul li label {
+        margin: -24px 0 0 0;
+        padding-left: 2.8em;
+    }
+    .life-section-box ul li {
+        margin: 9px 0 0 14px;
+        width: 130% !important;
+        padding: 1px 0px 0px 19px !important;
+    }
+    .life-section-box ul li label {
+        margin: -2px 0 0 0;
+        padding-left: 2px;
+        font-size: 11px;
+    }
+    .csr-can-l {
+        padding: 0px 0px 20px 0px;
+    }
+    .csr-can-l {
+        width: 100%;
+        float: left;
+        padding: 20px 0px 20px 0px;
+    }
+    .csr-can-r {
+        width: 100%;
+        float: right;
+        padding: 20px 0px 20px 0px;
+    }
+    .footer-1, .footer-2 {
+        width: 100%;
+    }
+    .footer-4 {
+        width: 100%;
+    }
+    .footer-5 {
+        width: 100%;
+    }
+    .main-brand-section .charge-banner-left {
+        padding: 1em 0em 0em 1em;
+    }
+    .main-brand-section h3 {
+        color: #121415;
+        font-weight: 300;
+        font-size: 17px;
+    } 
+    .top {
+        position: absolute;
+        right: 1%;
+        left: 10%;
+        margin-top: -10px;
+    }
+    ul.responsive-navigation {
+        margin-left: 0;
+        margin-top: 0;
+        padding: .5em 1.5em !important;
+    }
+    ul.responsive-navigation li {
+        line-height: 35px;
+        padding: 0px;
+        width: 42%;
+    }
+    ul.responsive-navigation li a {
+        display: block;
+        color: #96060C;
+        font-weight: 600;
+        font-size: 16px;
+        border-bottom: 1px solid rgba(141, 166, 180, .45);
+    }
+    header ul > li:hover {
+	background: #fe5000;
+}
+ul.nav-adj1 {
+	width: 100%;
+	float: left;
+	padding: .5em 0% 0% 0% !important;
+	margin: 0px;
+	list-style: none;
+}
+ul.nav-adj1 span {
+	color: #211F1F;
+	font-weight: 600;
+	font-size: 20px;
+	border-bottom: 1px solid #707070;
+	line-height: 50px;
+	display: block;
+	opacity: .8;
+	margin-bottom: 8px;
+}
+ul.nav-adj1 li {
+	line-height: 35px;
+	padding: 0px;
+}
+ul.nav-adj1 li a {
+	padding: 0px;
+	font-size: 16px;
+	border: none;
+	color: #818181 !important;
+	font-weight: 400;
+}
+ul.responsive-navigation li {
+	line-height: 35px;
+	padding: 0px;
+	width: 100%;
+}
+.charge-banner-left p {
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 18px;
+	color: #FFF;
+	margin-right: 200px;
+} 
+.brand-livguard-auto p {
+	margin-right: 454px;
+	padding: 0px 16px;
+	font-size: 20px;
+}
+.leading-left p {
+	padding: 6px 16px 0px 0px;
+}
+.sar-left {
+	padding: 0;
+}
+.sar-right {
+	width: 100%;
+	padding: 0px 20px;
+}
+.sar-right p {
+	margin-right: 752px;
+}
+.sar-left img {
+	margin-bottom: 20px;
+}
+.dealer-banner-main span.we-head {
+	color: #FFF;
+	font-size: 44px;
+	line-height: 62px;
+	padding: 0em 0em 0em .6em;
+}
+header {
+	padding: 13px 0px;
+}
+.warranty-form.container {
+	width: 100%;
+	padding-left: 77px;
+	margin: 0px;
+}
+.dealer-banner-main span.inno-head {
+    font-size: 29px;
+    line-height: 30px;
+    padding: 0em 0em 0em .6em;
+} 
+.validation {
+	line-height: 31px;
+}
+.dealer-banner-main span.we-head {
+	font-size: 22px;
+	line-height: 35px;
+	padding: 0em 0em 0em .6em;
+}
+.dealer-locate span {
+	float: left;
+	font-size: 20px;
+}
+.choose-class {
+    width: 565px;
+    margin-bottom: 10px;
+}
+.page-content {
+
+	text-align: left!important;
+	font-size: 15px !important;
+}
+.nav.nav-tabs li {
+	padding: 0;
+}
+.warranty-form.container {
+	width: 100%;
+	padding-left: 0px;
+	margin: 0px;
+}
+.cur-location {
+    float: left;
+}
+.contact-container {
+	padding: 1.3em 0em 1.3em 1em;
+}
+.contact-container h5 {
+	font-size: 23px;
+}
+.contact-container span {
+	display: block;
+}
+.input-box label {
+	font-size: 12px;
+}
+*::placeholder {
+	color: #555555;
+	font-size: 13px;
+	opacity: 1;
+}
+.input-box input {
+	padding: 1em 0em;
+}
+
+*::-moz-placeholder {
+	color: #555555;
+	font-size: 13px;
+	opacity: 1;
+} 
+.form-control {
+	font-size: 13px;
+	margin: 0;
+	padding: 0;
+}
+.iot-section-auto {
+	width: 100%;
+	margin: 0 auto;
+}
+.iot-section-auto h5 {
+	font-size: 13px;
+	color: #fff;
+	margin-bottom: .5rem;
+	font-family: inherit;
+	font-weight: 500;
+	line-height: 1.2;
+}
+}   
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
